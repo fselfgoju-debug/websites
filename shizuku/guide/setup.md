@@ -1,5 +1,7 @@
-# User manual
+# User manual 
+Do not use the scan feature in MIUI's "Security" app, since it will disable "Developer options".
 
+#
 [[toc]]
 
 ## Start Shizuku
